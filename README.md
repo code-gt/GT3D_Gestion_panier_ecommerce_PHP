@@ -1,12 +1,6 @@
 
 # 🛒 TP Panier avec Sessions
 
-**Niveau** : 3ème année Code GT  
-**Prérequis** : Formulaires GET/POST, Cookies, Sessions PHP  
-**Durée estimée** : 2-3 heures
-
----
-
 ## 📋 Objectifs
 
 - ✅ Maîtriser les **sessions PHP** pour stocker des données utilisateur
