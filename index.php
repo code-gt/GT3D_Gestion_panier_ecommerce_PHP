@@ -32,7 +32,7 @@ if (/* TODO */) {
         <div class="grid">
             <!-- TODO: Boucler sur le tableau \$produits -->
             <!-- Pour chaque article, afficher : nom, prix, bouton "Ajouter au panier" -->
-            <?php foreach (/*TO DO*/) { ?>
+            <?php foreach (/*TODO*/) { ?>
             <article>
                 <h3>/* Afficher le nom du produit */</h3>
                 <p>/* Afficher le prix du produit + € */</p>
