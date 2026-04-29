@@ -1,7 +1,7 @@
 <?php
 // TODO: Démarrer la session PHP
 
-// Créer un tableau associatif de produits avec pour chaque produit un ID, un nom, un prix
+// Créer un tableau associatif de produits $produits avec pour chaque produit un ID, un nom, un prix
 
 // TODO: Vérifier si l'utilisateur a soumis un formulaire (méthode POST)
 // Vérifier que le champ 'produit_id' existe dans la requête
