@@ -19,10 +19,10 @@
 
 ## 📁 Structure du TP
 
-panier-tp/
-├── index.php # Page d'accueil avec catalogue de produits
-├── panier.php # Page d'affichage du panier
-├── reset.php # Script de réinitialisation du panier
+panier-tp/  
+├── index.php # Page d'accueil avec catalogue de produits  
+├── panier.php # Page d'affichage du panier  
+├── reset.php # Script de réinitialisation du panier  
 
 
 ---
